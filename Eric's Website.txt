@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Eric Mellusi</title>
+</head>
+<body>
+  <header>
+    <h1>Eric Mellusi</h1>
+    <h3>Mechanical Engineering (BS) and Engineering Management (MS)</h3>
+    <nav>
+      <ul style="margin: 0; padding: 0; list-style-type: none;">
+        <li style="display: inline;"><a href="#" style="text-decoration: none; padding: .2em 1em;">About Me</a></li>
+        <li style="display: inline;"><a href="#" style="text-decoration: none; padding: .2em 1em;">Sensata Technologies</a></li>
+        <li style="display: inline;"><a href="#" style="text-decoration: none; padding: .2em 1em;">Nuvera Fuel Cells</a></li>
+        <li style="display: inline;"><a href="#" style="text-decoration: none; padding: .2em 1em;">Track and Field</a></li>
+        <li style="display: inline;"><a href="#" style="text-decoration: none; padding: .2em 1em;">Academics</a></li>
+        <li style="display: inline;"><a href="#" style="text-decoration: none; padding: .2em 1em;">Capstone</a></li>
+        <li style="display: inline;"><a href="#" style="text-decoration: none; padding: .2em 1em;">Activities</a></li>
+        <li style="display: inline;"><a href="#" style="text-decoration: none; padding: .2em 1em;">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <main>
+    <section>
+      <h2>About Me</h2>
+      <p>This is where a lot of intformation about me will go. The stuff about how I came to be a mechanical engineer. Something catchy that will make an employer want to read more. Add a downloadable copy of my resume.</p>
+    </section>
+    
+    <section>
+      <h2>Sensata Technologies</h2>
+      <p>This is where I write all about Sensata, what I've done there, what skills I learned there.</p>
+    </section>
+
+    
+    <section>
+      <h2>Nuvera Fuel Cells</h2>
+      <p>This is where I write all about Sensata, what I've done there, what skills I learned there.</p>
+    </section>
+    
+    <section>
+      <h2>Track and Field</h2>
+      <p>This is where I write all about Track track track</p>
+    </section>
+  </main>
+        
+  <footer>
+    <nav>
+      <ul style="margin: 0; padding: 0; list-style-type: none;">
+        <li style="display: inline;"><a href="#" style="text-decoration: none; padding: .2em 1em;">Contact</a></li>
+        <li style="display: inline;"><a href="https://www.linkedin.com/in/eric-mellusi/" style="text-decoration: none; padding: .2em 1em;">LinkedIn</a></li>
+        <li style="display: inline;"><a href="#" style="text-decoration: none; padding: .2em 1em;">email</a></li>
+        <li style="display: inline;"><a href="#" style="text-decoration: none; padding: .2em 1em;">GitHub</a></li>
+        
+  </footer>
+</body>
+</html>

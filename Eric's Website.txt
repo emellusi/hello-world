@@ -11,58 +11,53 @@
     <h3>Mechanical Engineering (BS) and Engineering Management (MS)</h3>
     <nav>
       <ul style="margin: 0; padding: 0; list-style-type: none;">
-        <li style="display: inline;"><a href="#" style="text-decoration: none; padding: .2em 1em;">About Me</a></li>
-        <li style="display: inline;"><a href="#" style="text-decoration: none; padding: .2em 1em;">Sensata Technologies</a></li>
-        <li style="display: inline;"><a href="#" style="text-decoration: none; padding: .2em 1em;">Nuvera Fuel Cells</a></li>
-        <li style="display: inline;"><a href="#" style="text-decoration: none; padding: .2em 1em;">Track and Field</a></li>
-        <li style="display: inline;"><a href="#" style="text-decoration: none; padding: .2em 1em;">Academics</a></li>
-        <li style="display: inline;"><a href="#" style="text-decoration: none; padding: .2em 1em;">Capstone</a></li>
-        <li style="display: inline;"><a href="#" style="text-decoration: none; padding: .2em 1em;">Activities</a></li>
+        <li style="display: inline;"><a href="#AboutMe" style="text-decoration: none; padding: .2em 1em;">About Me</a></li>
+        <li style="display: inline;"><a href="#Sensata" style="text-decoration: none; padding: .2em 1em;">Sensata Technologies</a></li>
+        <li style="display: inline;"><a href="#Nuvera" style="text-decoration: none; padding: .2em 1em;">Nuvera Fuel Cells</a></li>
+        <li style="display: inline;"><a href="#Track" style="text-decoration: none; padding: .2em 1em;">Track and Field</a></li>
+        <li style="display: inline;"><a href="#Academics" style="text-decoration: none; padding: .2em 1em;">Academics</a></li>
+        <li style="display: inline;"><a href="#Capstone" style="text-decoration: none; padding: .2em 1em;">Capstone</a></li>
+        <li style="display: inline;"><a href="#Activities" style="text-decoration: none; padding: .2em 1em;">Activities</a></li>
         <li style="display: inline;"><a href="#" style="text-decoration: none; padding: .2em 1em;">Contact</a></li>
       </ul>
     </nav>
   </header>
   
   <main>
-    <section>
+    <section id="AboutMe">
       <h2>About Me</h2>
       <p>This is where a lot of intformation about me will go. The stuff about how I came to be a mechanical engineer. Something catchy that will make an employer want to read more. Add a downloadable copy of my resume.</p>
     </section>
     
-    <section>
+    <section id="Sensata">
       <h2>Sensata Technologies</h2>
       <p>This is where I write all about Sensata, what I've done there, what skills I learned there.</p>
     </section>
 
     
-    <section>
+    <section id="Nuvera">
       <h2>Nuvera Fuel Cells</h2>
       <p>This is where I write all about Sensata, what I've done there, what skills I learned there.</p>
     </section>
     
-    <section>
+    <section id="Track">
       <h2>Track and Field</h2>
       <p>This is where I write all about Track track track</p>
     </section>
     
-    <section>
+    <section id="Academics">
       <h2>Academics</h2>
       <p>This is where I write all about my courses</p>
       <h4>Mechanical Engineering</h4>
       <h4>Engineering Management</h4>
     </section>
     
-    <section>
-      <h2>Track and Field</h2>
-      <p>This is where I write all about Track track track</p>
-    </section>
-    
-    <section>
+    <section id="Capstone">
       <h2>Capstone</h2>
       <p>This is where I write all about spinning rockets</p>
     </section>
     
-    <section>
+    <section id="Activities">
       <h2>Activities</h2>
       <p>This is where I write all about weightlifting, rock climbing, programming, and whatever other hobbies I might discover. Travel? Discus?</p>
     </section>

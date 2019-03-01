@@ -44,6 +44,28 @@
       <h2>Track and Field</h2>
       <p>This is where I write all about Track track track</p>
     </section>
+    
+    <section>
+      <h2>Academics</h2>
+      <p>This is where I write all about my courses</p>
+      <h4>Mechanical Engineering</h4>
+      <h4>Engineering Management</h4>
+    </section>
+    
+    <section>
+      <h2>Track and Field</h2>
+      <p>This is where I write all about Track track track</p>
+    </section>
+    
+    <section>
+      <h2>Capstone</h2>
+      <p>This is where I write all about spinning rockets</p>
+    </section>
+    
+    <section>
+      <h2>Activities</h2>
+      <p>This is where I write all about weightlifting, rock climbing, programming, and whatever other hobbies I might discover. Travel? Discus?</p>
+    </section>
   </main>
         
   <footer>
@@ -55,5 +77,6 @@
         <li style="display: inline;"><a href="#" style="text-decoration: none; padding: .2em 1em;">GitHub</a></li>
         
   </footer>
+      <p><br><br><br></p>
 </body>
 </html>
